@@ -1,0 +1,10 @@
+--indent-classes
+--indent-preprocessor
+--indent-col1-comments
+--pad-oper
+--unpad-paren
+--add-brackets
+--indent=tab=2
+--brackets=attach
+--align-pointer=middle
+--lineend=linux
