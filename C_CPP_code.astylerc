@@ -1,8 +1,10 @@
 --indent-classes
 --indent-preprocessor
 --indent-col1-comments
+--break-blocks=all
 --pad-oper
 --unpad-paren
+--delete-empty-lines
 --add-brackets
 --indent=tab=2
 --brackets=attach
